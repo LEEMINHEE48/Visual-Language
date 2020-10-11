@@ -45,6 +45,11 @@
 또한 화면구성에는 '황금비율'이 있다. 예전부터 계속해서 쓰이고 있는 하나의 '미장센' 일 수도 있는 '화면의 비율'이다.
 이는 다빈치의 '황금비율'에서 착안된것이다. 사람들이 봤을때 가장 편안하고, 가장 아름답게 보일 수 있는 위치에 피사체를 놓는 것이다.
 
+<img width="1074" alt="스크린샷 2020-10-11 오후 5 42 47" src="https://user-images.githubusercontent.com/70868719/95674194-80231380-0be9-11eb-8e28-ae649132df02.png">
+
+<img width="647" alt="스크린샷 2020-10-11 오후 5 43 08" src="https://user-images.githubusercontent.com/70868719/95674196-85805e00-0be9-11eb-8166-5ef3113b4292.png">
+
+<img width="734" alt="스크린샷 2020-10-11 오후 5 43 18" src="https://user-images.githubusercontent.com/70868719/95674197-86b18b00-0be9-11eb-85ec-d36475a8b526.png">
 
 
 Depth 
