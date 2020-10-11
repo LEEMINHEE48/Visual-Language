@@ -50,6 +50,13 @@ Depth
 피사계심도(Depth Of Field)란 촬영을 할 때 초점이 뚜렷하게 맺히는 영역을 의미한다. 이를 이용하면 프레임 속에 모든 부분에 초점을 맺히게 하거나 특정 부분에만 또렷하고 나머지는 흐리게 만들 수 있다. 
 이를 활용하면 본디 평면적 이미지를 담아내는 영화의 한계를 넘어 보다 깊이감 있는 화면을 만들수 있다.  또한 장면의 분위기나 강조할 대상을 보다 잘 나타낼 수도 있다. 
 
+![DoF-sketch](https://user-images.githubusercontent.com/70868719/95673613-228cc800-0be5-11eb-89bc-47fc12ff7247.jpg)
+
+
+
+![depth-of-field-diagram-1024x683](https://user-images.githubusercontent.com/70868719/95673622-3b957900-0be5-11eb-8ce7-bfe410720181.jpg)
+
+
 **이를 잘 활용하기 위해서는 렌즈의 특성을 알아야한다.**
 
 렌즈 
