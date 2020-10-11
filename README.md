@@ -77,6 +77,17 @@ Depth
 
 ![R720x0 q80](https://user-images.githubusercontent.com/70868719/95673570-a72b1680-0be4-11eb-90a2-ae088a66ac3b.jpeg)
 
+
+Pattern
+========
+영화에서 '패턴의 변화'를 통해 관객들의 시선을 이끌 수 있다.
+
+
+
+또한 '패턴의 변화'를 통해 대비를 일으켜 단조로울수 있는 영상을 입체적으로 만들어줄수있다. 
+
+
+
 Color 
 =====
 
@@ -98,16 +109,18 @@ Color
 
 ![스크린샷 2020-10-11 오후 5 17 29](https://user-images.githubusercontent.com/70868719/95673676-bf4f6580-0be5-11eb-91c8-19c494a4beb6.png)
 
+출처: CINEMA PALLETE https://twitter.com/CINEMAPALETTES
+
 
 다음은 보편적인 색의 특성이다. 
 -------------------------
-RED: 사랑, 열정, 위험, 공포
-Orange : 친근감, 무지
-Yellow : 명랑한, 즐거운, 행복
-Green: 치유,신선함,성장
-Cyan : 시원한 상쾌한, 깨끗한
-Blue : 안전한, 차가움, 음산함
-Purple : 우아한, 신비한, 침울한
-Magenta: 화려한, 자존감, 오만함
+- RED: 사랑, 열정, 위험
+- Orange : 친근감, 무지
+- Yellow : 명랑한, 즐거운, 행복
+- Green: 치유,신선함,성장
+- Cyan : 시원한 상쾌한, 깨끗한
+- Blue : 안전한, 차가움, 음산함
+- Purple : 우아한, 신비한, 침울한
+- Magenta: 화려한, 자존감, 오만함
 등
 
