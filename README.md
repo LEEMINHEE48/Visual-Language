@@ -40,6 +40,9 @@
 14.	Over head shot : 사람의 머리 바로 위에서 찍은 샷. 실내에서 수직으로 정수리에 카메라를 두고 찍는 샷 
 15.	Bird’s eye view : 하늘 높이 나는 새의 눈으로 잡은 만큼 넓은 앵글 (익스트림 롱 샷) 
 
+![스크린샷 2020-10-11 오후 5 06 17](https://user-images.githubusercontent.com/70868719/95673554-7b0f9580-0be4-11eb-822e-7ce4b3358cec.png)
+
+
 
 Depth 
 =====
@@ -61,7 +64,11 @@ Depth
 
 **렌즈값도 스토리 텔링의 중요한 요소 중 하나이다.**
 
+![unnamed-2](https://user-images.githubusercontent.com/70868719/95673567-97abcd80-0be4-11eb-95fa-d44e0899e3e2.jpg)
 
+
+
+![R720x0 q80](https://user-images.githubusercontent.com/70868719/95673570-a72b1680-0be4-11eb-90a2-ae088a66ac3b.jpeg)
 
 Color 
 =====
